@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/netrec-tech/.github/main/profile/netrec-logo.png" alt="NetRec Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/netrec-tech/.github/main/profile/favicon.png" alt="NetRec Logo" width="150" />
 
   <p><em>Beyond the Threats Ahead of the Risk</em></p>
 
