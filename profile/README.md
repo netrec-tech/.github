@@ -5,7 +5,7 @@
   <p><em>Beyond the Threats Ahead of the Risk</em></p>
 
   <p>
-    <a href="https://dsc.gg/netrec">Discord</a> •
+    <a href="https://www.facebook.com/netrec.tech">Facebook</a> •
     <a href="https://netrec.com">Website</a>
   </p>  
 </div>
